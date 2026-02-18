@@ -1,1 +1,1 @@
-This script showing the current working directory.
+We should found some basics script in shell.
